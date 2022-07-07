@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\java\\algs4.jar",
+        "e:\\programacion\\java\\algs4.jar"
+    ]
+}
